@@ -7,14 +7,15 @@ Cool-Tees, with a backend built in Django API and a frontend built in React & Re
 
 Cool Tees is an online clothing shopping website, A convenient and fun way to browse featured clothing & accessories from some of the best clothing brands online, especially aimed at teenagers. With this web app, you can browse products by any color you like or by trending colors, save products into favorites, and share products with friends on social media.
 ```
+[Screenshot]<img width="1273" alt="image" src="https://user-images.githubusercontent.com/113162205/210194710-97179b62-f0ec-4846-b902-6b4c9f13c681.png">
 
 ## Live Demo
 
 **This App uses a Replit free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](/) here!!
+Check out [FRONTEND LIVE DEMO](https://coolteesfrontend.murrsa.repl.co) here!!
 
-Check out [API LIVE DEMO](/) here!!
+Check out [API LIVE DEMO](https://coolteesbackend.murrsa.repl.co) here!!
 
 ## Tech used
 
